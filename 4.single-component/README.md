@@ -1,4 +1,7 @@
-# vue init webpack-simple vue-app
+# vue init 
+```bash
+vue init webpack-simple vue-app
+```
 
 # vue-app
 
